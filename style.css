@@ -8,3 +8,8 @@ h1 {
 iframe {
   border-style: dotted;
 }
+
+button{
+  background-color: black;
+  font-color: white;
+}
