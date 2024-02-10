@@ -12,4 +12,7 @@ iframe {
 button{
   background-color: black;
   color: white;
+  border: none;
+  height: 30px;
+  width: 100px;
 }
